@@ -1,9 +1,0 @@
-requests
-beautifulsoup4
-python-dotenv
-google-generativeai
-schedule
-yagmail
-pandas
-markdown
-jinja2
